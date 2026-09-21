@@ -1,0 +1,7 @@
+gossip-protocol/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── app.py
+└── tests/
+    └── test_gossip.py
